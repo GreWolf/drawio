@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 SberBrowser/19.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="1811" dy="964" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1245" dy="663" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -435,7 +435,7 @@
             <mxRectangle width="102" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NS6MXJYAzT7x-2VZBriJ-424" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;value/expression&lt;/b&gt;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=11;enumerate=0;comic=0;treeMoving=0;treeFolding=0;swimlaneFillColor=none;" vertex="1" parent="NS6MXJYAzT7x-2VZBriJ-420">
+        <mxCell id="NS6MXJYAzT7x-2VZBriJ-424" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;value&lt;/b&gt;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=11;enumerate=0;comic=0;treeMoving=0;treeFolding=0;swimlaneFillColor=none;" vertex="1" parent="NS6MXJYAzT7x-2VZBriJ-420">
           <mxGeometry x="258" width="143" height="20" as="geometry">
             <mxRectangle width="143" height="20" as="alternateBounds" />
           </mxGeometry>
